@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "82EF9EC5-BA50-4849-A3F5-38E868B7B4D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B45A28E-4B5B-4784-81D4-4EEDD37DD810",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "892585AE-22A9-408F-9D75-B0E59BFD4091",
+    "height": 555,
+    "width": 944,
+    "x": 35,
+    "y": 837
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Case Study Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41BE9773-C8ED-4D75-B6BA-9E2C8EFD9015",
+      "overrideName": "34E3A93D-F298-48EB-B45F-75F60D511C2F/D5DE41BF-EFCF-4BC0-B148-D6E0985A57C0/E56AB0EB-0874-486F-8619-733633348A77_stringValue",
+      "value": "Case Study A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCF35817-17D4-4EB7-A416-F4B55670D245",
+      "overrideName": "34E3A93D-F298-48EB-B45F-75F60D511C2F/18DF35F6-3A6A-4102-92B7-87B30A109943/6199BA42-9FB0-485E-9B45-916AA529F5F8_stringValue",
+      "value": "I like to design stuff"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84637397-AB4D-4EDD-BF24-4F9B8601B215",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "49755303-08C6-46FB-AF02-8F96AA9F412A",
+  "verticalSpacing": 0
+}

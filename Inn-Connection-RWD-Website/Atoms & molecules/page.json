@@ -1,0 +1,91 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5AE31F47-F779-4B32-B51C-8AB35C8442B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -442,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "D689B5DF-880A-4503-8049-71925AC99D82"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "93587773-E572-4D10-BDA2-066A8EA4BEE7"
+    },
+    {
+      "class": "text",
+      "id": "EED4A153-AB80-49D7-A21A-CE8CB674DFE2"
+    },
+    {
+      "class": "text",
+      "id": "18772440-208E-4CF3-A9E9-15D8870B8266"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A2600628-A846-4182-8FEE-53E6DAC2FCF2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B70AEB3D-8265-41BC-9977-09C89DF770D5"
+    },
+    {
+      "class": "text",
+      "id": "F5489FB8-AEA5-43F9-B5A2-621E3F3C3A01"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B2F84444-07F2-4923-BE91-99C5621FBB11"
+    }
+  ],
+  "name": "Atoms & molecules",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -527,
+    "guides": [
+    ]
+  }
+}
